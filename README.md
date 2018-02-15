@@ -85,6 +85,17 @@ A partir daí toda a comunicação será 100% em inglês, tanto escrita quanto p
 Nem todas as vagas estarão disponíveis para o processo em inglês, já que para isso
 é necessário a disponibilidade de um entrevistador que possa conduzir o processo.
 
+#### As vagas são para uma linguagem de programação específica? 
+
+Não! Atualmente estamos relevando a linguagem de programação que a pessoa sabe. Os processos serão genéricos e os pontos a serem avaliados não serão afetados de acordo com alguma tecnologia específica.
+
+#### Que outras diferenças existem entre uma vaga real e a simulação?
+
+Como estamos apenas com o objetivo de treinamento, algumas coisas não precisam ser levadas em consideração, como:
+- Benefícios: não há necessidade de se preocupar com os benefícios oferecidos por cada empresa, leve em conta apenas os itens que descrevem o produto da empresa, o tipo dela, cultura e etc. 
+- Localização: também não há necessidade de se importar se a empresa é do lado da sua casa ou em outro país. Os processos seletivos serão remotos, mas não haverá contratação efetivamente.
+- Forma de contrato de trabalho: não deixe que isso também seja um impeditivo ou motivo de dúvida para se aplicar para alguma vaga, você pode preferir CLT ou PJ, pra gente não importa.
+
 ## Dúvidas?
 
 Fique à vontade para tirar qualquer dúvida sobre o projeto ou o processo no [Slack do TC](https://ctgroups.slack.com)!
